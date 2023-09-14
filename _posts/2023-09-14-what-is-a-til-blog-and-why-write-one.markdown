@@ -17,4 +17,4 @@ The main reasons why I have started one and you might want to start one too are:
 
 Low barrier of entry, big output and good outcomes, a TIL Blog looks like a good time investment to me. 
 
-If you decided to start a TIL Blog, share it with me!
+If you decide to start a TIL Blog, share it with me!
