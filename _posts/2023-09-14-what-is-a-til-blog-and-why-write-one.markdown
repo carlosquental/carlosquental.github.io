@@ -4,7 +4,7 @@ title:  "What is a TIL Blog and why write should you write one?"
 date:   2023-09-14 21:00:32 +0100
 categories: TIL
 ---
-TIL stands for Today I Learned, and a TIL Blog is where you can make share new or interesting stuff that you have learned recently.
+TIL stands for Today I Learned, and a TIL Blog is where you can share new or interesting stuff that you have learned recently.
 
 The main reasons why I have started one and you might want to start one too are:
 
