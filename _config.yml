@@ -53,3 +53,5 @@ plugins:
 #   - vendor/ruby/
 
 show_excerpts: false
+
+google_analytics: G-8W4EWQ0SFC
