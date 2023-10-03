@@ -2,7 +2,7 @@
 layout: post
 title:  "Review of #10 k8s meetup | Cloud Native Lisbon x DevOps Lisbon"
 date:   2023-10-03 18:02:00 +0100
-categories: review meetup testing devops serverless
+categories: review
 ---
 
 Free pizza and free beers? 2 thumbs up!👍👍
