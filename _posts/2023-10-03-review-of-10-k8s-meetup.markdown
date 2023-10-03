@@ -9,7 +9,7 @@ Free pizza and free beers? 2 thumbs up!👍👍
 
 [Cloud Native Lisbon](https://www.meetup.com/cloudnativelx/events/295924185) is a community group that organizes events every couple of months about containerization, microservices, CI/CD and DevOps stuff. Interestingly, it was founded by one of my colleagues at [Ikigai Digital](https://ikigaidigital.io/), [João Aguiar](https://www.linkedin.com/in/jsaguiar/). I didn't know that when I went.
 
-Even though I don't use Kubernetes at my current role, I work with serverless architecture, I decided to go and didn't regret it.
+Even though I don't use Kubernetes at my current role, I work with serverless architecture, I decided to go anyway. Here's what I learned.
 
 ### Non-functional testing on CI/CD pipelines
 
